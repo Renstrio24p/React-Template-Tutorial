@@ -1,0 +1,7 @@
+<p className="desc">install webpack as dev Dependencies</p>
+                <div className="cli">
+                    <p>bash</p>
+                    <div className="terminal">
+                        <pre>$ npm i webpack webpack-cli webpack-dev-server -D</pre>
+                    </div>
+                </div>

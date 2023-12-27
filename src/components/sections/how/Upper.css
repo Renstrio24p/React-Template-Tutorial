@@ -1,0 +1,19 @@
+
+
+
+.node .logo-div {
+    gap: 0.9rem;
+}
+
+.logo-div {
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.logo-div img {
+    width: 100%
+}
+
+.node .logo-div > .logo {
+    width: 60px;
+}
